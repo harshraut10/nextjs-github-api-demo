@@ -8,7 +8,8 @@ const AboutPage = () => {
   return (
     <div>
       <h1>About Page</h1>
-      <p>Paragraphs are the building blocks of papers. Many students define paragraphs in terms of length: a paragraph is a group of at least five sentences, a paragraph is half a page long, etc. In reality, though, the unity and coherence of ideas among sentences is what constitutes a paragraph.</p>
+      <p>This project demonstrates how github repositories can be fetched using the GitHub REST API</p>
+      <h3>Click on the <dfn>Repository</dfn> Above to fetch the repositories of user harshraut10</h3>
     </div>
   )
 }
